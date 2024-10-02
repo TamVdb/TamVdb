@@ -33,6 +33,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
+| Default Header | Left Align | Right Align | Center Align |
+| -------------- | :--------- | ----------: | :----------: |
 | ![](https://github-readme-stats.vercel.app/api?username=TamVdb&theme=radical&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TamVdb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 
 ## 🏆 GitHub Trophies
