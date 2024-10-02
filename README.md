@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Tamara
-👩‍💻 Front-end developer passionate about design and optimization <br />
+👩‍💻 Front-end developer passionate about design and optimization. <br />
 🤖 I love coding things for the web!<br />
 🏢 7+ years of experience in designing, building, and maintaining responsive websites, both in a company and as a freelancer.<br />
 💡 Currently completing a front-end development program focused on JavaScript and React.<br />
-🪄 My goal is to craft visually appealing, pixel perfect, and user-friendly web application that engage, inspire, and solve user needs or problems.
+🪄 My goal is to craft visually appealing, pixel perfect, and user-friendly web application that engage, inspire, and solve user needs/problems.
 
 
 ## 🌐 Socials
