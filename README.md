@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tamara
 👩‍💻 Front-end developer passionate about design and optimization. <br />
 🤖 I love coding things for the web!<br />
-🏢 7+ years of experience in designing, building, and maintaining responsive websites, both in a company and as a freelancer.<br />
+🏢 9+ years of experience in designing, building, and maintaining responsive websites, both in a company and as a freelancer.<br />
 💡 Currently completing a front-end development program focused on JavaScript and React.<br />
 🪄 My goal is to craft visually appealing, pixel perfect, and user-friendly web application that engage, inspire, and solve user needs/problems.
 
@@ -34,9 +34,6 @@
 
 ## 📊 GitHub Stats
 | ![](https://github-readme-stats.vercel.app/api?username=TamVdb&theme=radical&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TamVdb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TamVdb&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TamVdb&limit=5&theme=radical&combine_all_yearly_contributions=true)
